@@ -1,4 +1,6 @@
-# CS453-Hello-World
+# Assignment one
+
+## Hello World app
 
 The hello world app running:
 
